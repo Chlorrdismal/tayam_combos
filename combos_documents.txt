@@ -45,7 +45,6 @@
 [Devoted Druid] + [Orcish Bowmasters] + [Concordant Crossroads | Thousand-Year Elixir | Tyvar, Jubilant Brawler] + [Cryptolith Rite | Enduring Vitality | Rishkar, Peema Renegade]
 [Devoted Druid] + [Phyrexian Tower] + [Sylvan Safekeeper] + [Luminous Broodmoth | Strangleroot Geist | Young Wolf]
 [Devoted Druid] + [Squandered Resources] + [Dryad Arbor | Khalni Garden] + [Marvin, Murderous Mimic | Mirage Mirror | Shifting Woodland]
-[Devoted Druid] + [Squandered Resources | Sylvan Safekeeper] + [Marvin, Murderous Mimic | Mirage Mirror | Shifting Woodland] + [Bristly Bill, Spine Sower | Floral Evoker | Mossborn Hydra | Roaring Earth | Sazh's Chocobo | Scythecat Cub]
 [Earthcraft] + [Marvin, Murderous Mimic] + [Wall of Roots] + [Bartolome del Presidio | Bloodflow Connoisseur | Carrion Feeder]
 [Gaea's Cradle] + [Basking Broodscale | Evolution Witness] + [Squandered Resources | Sylvan Safekeeper] + [Basking Broodscale | Devoted Druid | Evolution Witness | Marvin, Murderous Mimic | Mirage Mirror | Shifting Woodland]
 [Gaea's Cradle] + [Insidious Roots] + [Squandered Resources | Sylvan Safekeeper] + [Bartolome del Presidio | Bloodflow Connoisseur | Carrion Feeder | Devoted Druid | Dryad Arbor | Icatian Moneychanger | Ranger-Captain of Eos | Shield Mate]
