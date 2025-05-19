@@ -34,7 +34,7 @@
 [Agatha's Soul Cauldron] + [Strangleroot Geist] + [Bartolome del Presidio | Bloodflow Connoisseur | Carrion Feeder] + [Bloom Tender | Circle of Dreams Druid | Faeburrow Elder | Incubation Druid]
 [Agatha's Soul Cauldron] + [Strangleroot Geist] + [Walking Ballista] + [Cryptolith Rite | Enduring Vitality | Rishkar, Peema Renegade]
 [Agatha's Soul Cauldron] + [Walking Ballista] + [Earthcraft | Wall of Roots] + [Strangleroot Geist | Young Wolf]
-[Agatha's Soul Cauldron] + [Walking Ballista] + [Strangleroot Geist | Young Wolf] + [Ashnod's Altar | Bartolome del Presidio | Bloodflow Connoisseur | Carrion Feeder]
+[Agatha's Soul Cauldron] + [Walking Ballista] + [Strangleroot Geist | Young Wolf] + [Ashnod's Altar | Bartolome del Presidio | Bloodflow Connoisseur | Carrion Feeder | Ghost Lantern // Bind Spirit | Insidious Roots | Metastatic Evangel | Necrosynthesis | Sadistic Glee | Warden of the Grove]
 [Ashnod's Altar] + [Dryad Arbor] + [Mossborn Hydra] + [Concordant Crossroads | Devoted Druid | Earthcraft | Lotus Cobra | Nissa, Resurgent Animist | Thousand-Year Elixir | Tireless Provisioner | Tyvar, Jubilant Brawler]
 [Ashnod's Altar] + [Patrol Signaler] + [Concordant Crossroads | Thousand-Year Elixir | Tyvar, Jubilant Brawler] + [Cryptolith Rite | Enduring Vitality | Rishkar, Peema Renegade]
 [Bartolome del Presidio | Bloodflow Connoisseur | Carrion Feeder] + [Bloom Tender | Circle of Dreams Druid | Faeburrow Elder] + [Concordant Crossroads | Thousand-Year Elixir | Tyvar, Jubilant Brawler] + [Luminous Broodmoth | Strangleroot Geist | Warden of the Grove | Young Wolf]
